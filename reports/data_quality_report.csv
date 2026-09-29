@@ -1,0 +1,3 @@
+Issue,Count,Action
+Duplicate transactions,1,Removed
+Invalid negative quantities,1,Removed

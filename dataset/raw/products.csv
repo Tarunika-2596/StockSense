@@ -1,0 +1,11 @@
+product_id,category,sub_category,brand,mrp,cost_price,shelf_life_days,supplier_id
+P101,Dairy,Milk,Aavin,60,52,3,SUP01
+P102,Dairy,Curd,Aavin,45,36,5,SUP01
+P103,Dairy,Butter,MilkyFresh,65,54,30,SUP02
+P205,Personal Care,Shampoo,GlowCare,120,79,730,SUP08
+P206,Personal Care,Soap,FreshGlow,42,27,900,SUP08
+P330,beverages,Soft Drink,FizzUp,50,31,180,SUP04
+P331,Beverages,Juice,TropiFresh,85,57,120,SUP04
+P442,Snacks,Biscuits,Crispo,35,22,240,SUP06
+P443,Snacks,Chips,Crunchy,30,19,150,SUP06
+P550,Household,Detergent,CleanMax,95,68,730,SUP07

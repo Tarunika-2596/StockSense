@@ -1,0 +1,41 @@
+date,store_id,product_id,forecast_7_day,closing,received,stockout_probability,risk_level,recommended_stock,reorder_quantity,reason,manager_action
+2026-08-07,S03,P443,257.50082,0,20,0.995,HIGH,283.25092,263,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-10,S02,P101,359.94843,0,20,1.0,HIGH,395.94327,376,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-11,S02,P330,428.93118,0,40,1.0,HIGH,471.8243,432,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-13,S03,P101,264.5131,0,40,1.0,HIGH,290.96442,251,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-14,S01,P331,238.59619,48,80,0.0,LOW,262.4558,134,"low inventory coverage, stock below reorder level, recent demand is increasing",Monitor stock
+2026-08-16,S01,P101,295.2161,0,40,0.99,HIGH,324.7377,285,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-16,S02,P102,329.08505,0,80,1.0,HIGH,361.99356,282,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-17,S02,P443,253.99641,0,20,0.995,HIGH,279.39606,259,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-17,S04,P101,369.63028,0,20,1.0,HIGH,406.59332,387,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-17,S02,P103,191.09596,9,40,0.015,LOW,210.20557,161,"low inventory coverage, stock below reorder level, recent demand is increasing",Monitor stock
+2026-08-17,S01,P442,268.66266,0,0,0.99,HIGH,295.52893,296,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-18,S04,P442,280.47192,35,40,0.01,LOW,308.51913,234,"low inventory coverage, stock below reorder level",Monitor stock
+2026-08-18,S03,P330,291.42868,0,20,0.99,HIGH,320.57156,301,"high stock-out probability, low inventory coverage, stock below reorder level",Order immediately
+2026-08-19,S02,P331,236.4194,21,80,0.04,LOW,260.06134,159,"low inventory coverage, stock below reorder level, recent demand is increasing",Monitor stock
+2026-08-19,S02,P442,261.3709,0,40,0.995,HIGH,287.508,248,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-20,S01,P102,246.8433,0,0,0.995,HIGH,271.52765,272,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-20,S04,P443,241.6101,0,20,0.995,HIGH,265.77112,246,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-20,S04,P206,219.31953,0,0,0.99,HIGH,241.2515,241,"high stock-out probability, low inventory coverage, stock below reorder level",Order immediately
+2026-08-20,S02,P206,255.30309,23,80,0.01,LOW,280.8334,178,"low inventory coverage, stock below reorder level",Monitor stock
+2026-08-20,S02,P205,159.82486,17,40,0.005,LOW,175.80734,119,"low inventory coverage, stock below reorder level, recent demand is increasing",Monitor stock
+2026-08-20,S04,P102,331.40445,12,80,0.055,LOW,364.5449,273,"low inventory coverage, stock below reorder level",Monitor stock
+2026-08-21,S01,P443,258.28073,0,0,0.99,HIGH,284.10883,284,"high stock-out probability, low inventory coverage, stock below reorder level",Order immediately
+2026-08-21,S04,P330,279.34644,0,40,1.0,HIGH,307.2811,267,"high stock-out probability, low inventory coverage, stock below reorder level",Order immediately
+2026-08-21,S03,P442,255.92924,40,80,0.005,LOW,281.5222,162,"low inventory coverage, stock below reorder level",Monitor stock
+2026-08-21,S03,P331,196.82892,0,0,0.98,HIGH,216.51181,217,"high stock-out probability, low inventory coverage, stock below reorder level",Order immediately
+2026-08-21,S01,P330,278.12042,0,40,1.0,HIGH,305.93246,266,"high stock-out probability, low inventory coverage, stock below reorder level, recent demand is increasing",Order immediately
+2026-08-22,S03,P206,221.50313,33,80,0.0,LOW,243.65344,131,"low inventory coverage, stock below reorder level",Monitor stock
+2026-08-22,S04,P205,98.53258,173,0,0.005,LOW,108.38584,0,recent demand is increasing,No action
+2026-08-22,S04,P331,214.25658,36,40,0.0,LOW,235.68224,160,"low inventory coverage, stock below reorder level, recent demand is increasing",Monitor stock
+2026-08-23,S04,P550,167.28664,67,0,0.0,LOW,184.0153,117,low inventory coverage,Monitor stock
+2026-08-23,S03,P103,141.0553,38,20,0.0,LOW,155.16083,97,low inventory coverage,Monitor stock
+2026-08-24,S02,P550,218.20398,97,40,0.015,LOW,240.02438,103,"low inventory coverage, recent demand is increasing",Monitor stock
+2026-08-24,S03,P205,88.60296,224,40,0.005,LOW,97.46326,0,recent demand is increasing,No action
+2026-08-24,S01,P103,164.92278,62,80,0.005,LOW,181.41505,39,"low inventory coverage, recent demand is increasing",Monitor stock
+2026-08-24,S03,P102,268.7527,16,40,0.005,LOW,295.62796,240,"low inventory coverage, stock below reorder level",Monitor stock
+2026-08-24,S04,P103,170.80605,158,40,0.0,LOW,187.88666,0,"low inventory coverage, recent demand is increasing",No action
+2026-08-24,S01,P206,209.7314,60,80,0.01,LOW,230.70454,91,"low inventory coverage, stock below reorder level",Monitor stock
+2026-08-24,S01,P205,125.179726,166,0,0.0,LOW,137.69771,0,recent demand is increasing,No action
+2026-08-24,S03,P550,119.03522,98,0,0.0,LOW,130.93874,33,low inventory coverage,Monitor stock
+2026-08-24,S01,P550,168.80443,52,80,0.0,LOW,185.68488,54,"low inventory coverage, recent demand is increasing",Monitor stock

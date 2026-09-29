@@ -1,0 +1,4 @@
+Analysis,Test,P-value,Significant
+Promotion vs Demand,Independent T-test,0.002035118843774943,True
+Store Type vs Demand,ANOVA,6.504423523839567e-17,True
+Promotion vs Stock-out,Chi-square,0.4683857340044175,False
